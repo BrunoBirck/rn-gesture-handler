@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-gestures",
+    "slug": "react-native-gestures",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-gestures"
+}
