@@ -5,7 +5,10 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.bruno-birck.react-native-gestures"
+    }
   },
   "name": "react-native-gestures"
 }
